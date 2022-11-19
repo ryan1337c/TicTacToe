@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TicTacToe App - Ryan Chen (217987918)</string>
+
+    <string-array name="Players">
+        <item>Player X</item>
+        <item>Player O</item>
+    </string-array>
+</resources>
